@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX, 51cg1.com
-DOMAIN-KEYWORD, 91p
+payload:
+  - DOMAIN-SUFFIX, 51cg1.com
+  - DOMAIN-KEYWORD, 91p
