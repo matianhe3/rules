@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,freewallet.org
   - DOMAIN-SUFFIX,dbeaver.com
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,vitejs.dev
